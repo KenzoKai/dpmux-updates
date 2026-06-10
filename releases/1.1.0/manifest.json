@@ -1,0 +1,15 @@
+{
+  "version": "1.1.0",
+  "url": "releases/1.1.0/dpmux-1.1.0-win-x64.zip",
+  "parts": [
+    "releases/1.1.0/dpmux-1.1.0-win-x64.zip.part01",
+    "releases/1.1.0/dpmux-1.1.0-win-x64.zip.part02",
+    "releases/1.1.0/dpmux-1.1.0-win-x64.zip.part03",
+    "releases/1.1.0/dpmux-1.1.0-win-x64.zip.part04"
+  ],
+  "sha256": "1284f96862da13ce110b671a17717640d6c34570e5f6f9f24e17645c20e582a3",
+  "size": 151361349,
+  "installerUrl": "DPMuxSetup.exe",
+  "pubDate": "2026-06-10T19:39:06.266Z",
+  "notes": "DPMux 1.1.0"
+}
