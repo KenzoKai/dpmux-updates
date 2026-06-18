@@ -7,9 +7,9 @@
     "releases/2.0.2/dpmux-2.0.2-win-x64.zip.part03",
     "releases/2.0.2/dpmux-2.0.2-win-x64.zip.part04"
   ],
-  "sha256": "c21fb3d563f5faa5d90d9b5f3fc7d0fe3342f2d5e57a39de43126139040c7714",
-  "size": 151485123,
+  "sha256": "4ddc151451b6e044489e7ae7b86fa412162bef481eed0d5c691768eb0123c4a4",
+  "size": 151485191,
   "installerUrl": "DPMuxSetup.exe",
-  "pubDate": "2026-06-18T01:41:11.001Z",
+  "pubDate": "2026-06-18T03:21:56.670Z",
   "notes": "DPMux 2.0.2"
 }
